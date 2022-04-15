@@ -808,7 +808,7 @@ points = PoolVector2Array( 0, 0, 16, 0, 16, 16, 0, 16 )
 script = ExtResource( 7 )
 
 [node name="Background" type="Sprite" parent="."]
-position = Vector2( 526, -68 )
+position = Vector2( 530, -65 )
 scale = Vector2( 2.69766, 3.14443 )
 z_as_relative = false
 texture = ExtResource( 2 )
